@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563027957251",
+    "project_id": "flutterbaberbooking-ae582",
+    "storage_bucket": "flutterbaberbooking-ae582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563027957251:android:ffe128701d88378a85e036",
+        "android_client_info": {
+          "package_name": "com.example.flutter_barber_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563027957251-o6cb7mamr4a6rd5em3kn6efnpavsgo47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_barber_booking",
+            "certificate_hash": "9ace9595a0c04175626fb6b4ae38e6ee7514ba41"
+          }
+        },
+        {
+          "client_id": "563027957251-qmtl0d1vo7dsesa85eu38nn3m00s2fio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSyy1R424ArLAfzh8TifRBsF8wOsd2mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563027957251-qmtl0d1vo7dsesa85eu38nn3m00s2fio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
